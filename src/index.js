@@ -1,6 +1,7 @@
 /* TODO: SLIDE 31 */
 import './u-card.js';
 import './u-mark.js';
+import './u-alerts.js';
 /* TODO: SLIDE 54 */
 import './u-navbar.js';
 import './u-search.js';
