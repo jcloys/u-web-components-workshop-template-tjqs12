@@ -51,6 +51,22 @@ class UFooter extends LitElement {
       <!-- TODO: SLIDE 111 -->
       <ul>
         <!-- TODO: SLIDE 51 -->
+      <ul>
+        <li>
+          <a href="#privacy-statement">Privacy</a>
+        </li>
+        <li>
+          <a href="#ad85">Non-discrimination</a>
+        </li>
+        <li>
+          <a href="#hr11">Equal Opportunity</a>
+        </li>
+        <li>
+          <a href="#accessibility-statement">Accessibility</a>
+        </li>
+        <li>
+          <a href="#copyright-information" >Copyright</a>
+        </li>
       </ul>`;
   }
 
